@@ -1,0 +1,13 @@
+@media screen and (max-width: 550px) {
+  .card-res {
+    justify-content: start !important;
+  }
+  .mb {
+    margin-bottom: 10px;
+  }
+}
+.hover:hover {
+  box-shadow: 4px 3px 42px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 4px 3px 42px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 4px 3px 42px 0px rgba(0, 0, 0, 0.75);
+}
